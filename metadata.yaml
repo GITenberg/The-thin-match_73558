@@ -1,0 +1,30 @@
+_repo: The-thin-match_73558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitehead, Henry S. (Henry St. Clair)
+    alias: Whitehead, Henry St. Clair
+    birthdate: 1882
+    deathdate: 1932
+    gutenberg_agent_id: '56997'
+    url: http://www.gutenberg.org/2009/agents/56997
+    wikipedia: https://en.wikipedia.org/wiki/Henry_S._Whitehead
+description: ''
+gutenberg_issued: '2024-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73558'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV05N03192503
+pgterms:marc905: 20240505183801whitehead
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publilshing Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The thin match
+url: http://www.gutenberg.org/ebooks/73558
