@@ -1,5 +1,8 @@
 _repo: The-thin-match_73558
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73558-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitehead, Henry S. (Henry St. Clair)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56997
     wikipedia: https://en.wikipedia.org/wiki/Henry_S._Whitehead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73558#The-thin-match
 gutenberg_issued: '2024-05-07'
 gutenberg_type: Text
 identifiers:
